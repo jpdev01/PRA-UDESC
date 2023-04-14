@@ -1,0 +1,3 @@
+/home/asaas/CLionProjects/levenshtein/cmake-build-debug/CMakeFiles/RPA2.dir
+/home/asaas/CLionProjects/levenshtein/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/asaas/CLionProjects/levenshtein/cmake-build-debug/CMakeFiles/rebuild_cache.dir
